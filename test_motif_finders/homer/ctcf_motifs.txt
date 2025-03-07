@@ -1,0 +1,2 @@
+PositionID	Offset	Sequence	Motif Name	Strand	MotifScore
+S2A_peak_32285	74	CGGCCAGCAGGGGGCGCGGC	CTCF(Zf)/CD4+-CTCF-ChIP-Seq(Barski_et_al.)/Homer	-	13.679485

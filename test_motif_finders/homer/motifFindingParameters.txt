@@ -1,0 +1,1 @@
+cmd = data/S2A_peak_32291.narrowPeak /data/ddpanchenko/main_dom/genomes/hg38/hg38_nochr.fa homer/ -size given -find data/ctcf.motif
